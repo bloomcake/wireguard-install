@@ -8,6 +8,6 @@ In this version of the script you can choose the private WireGuard network (http
 ### Installation
 Run the script and follow the assistant:
 
-`wget https://git.io/J6Xn9 -O wireguard-install.sh && bash wireguard-install.sh`
+`wget https://git.io/J6X4R -O wireguard-install.sh && bash wireguard-install.sh`
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
